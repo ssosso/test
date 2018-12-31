@@ -14,7 +14,7 @@ key: page-about
  - Java
  - Scala
  - Spring/SpringBoot
- - ~~Akka~~
+ - Akka
  - Mybatis
  - JPA
  - Css/Sass
