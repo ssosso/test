@@ -32,10 +32,12 @@ default:
     show_tags: true
     show_author_profile: false
     full_width: false
-    sharing: false
+    sharing: addthis
     comment: true
     license: false
     pageview: false
+    sidebar:
+      nav: custom-nav
 
 sources:
   bootcdn:

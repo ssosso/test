@@ -12,9 +12,6 @@ header:
       zh-Hant:  關於
     url:        /about.html
 
-sidebar:
-  nav: custom-nav
-
 custom-nav:
   - title: categories
     children:
