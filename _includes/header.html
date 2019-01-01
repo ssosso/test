@@ -7,10 +7,11 @@
 {%- endif -%}
     <div class="main">
       <div class="header__title">
-        <div style="display:inline-block;margin-right:10px;width:24px;height:24px">
+        <!-- <div style="display:inline-block;margin-right:10px;width:24px;height:24px">
           <img src="https://ssosso.github.io/assets/images/logo/logo.png"/>
-        </div>
+        </div> -->
         <div class="header__brand">
+          {%- include svg/logo.svg -%}
           {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
           {%- include snippets/get-nav-url.html path=_paths_root -%}
           {%- if site.title -%}
