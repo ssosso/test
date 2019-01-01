@@ -2,7 +2,7 @@
 {%- assign _SHARING_ADDTHIS_ID = site.sharing.addthis.id -%}
 {%- assign _SHARING_ADDTHIS_TOOLBOX_ID = site.sharing.addthis.toolbox.id -%}
 
-{%- if _SHARING_ADDTHIS_ID -%}
+{%- if _SHARING_ADDTHIS_ID and _sharing != false -%}
   <script type="text/javascript"
     src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ _SHARING_ADDTHIS_ID }}"></script>
   {%- if _SHARING_ADDTHIS_TOOLBOX_ID -%}

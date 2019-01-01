@@ -3,6 +3,7 @@ layout: article
 title: About
 key: page-about
 comment: false
+sharing: false
 ---
 
 - pen name : ssosso
