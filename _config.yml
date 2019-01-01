@@ -110,6 +110,8 @@ sharing:
   ## AddThis
   addthis:
     id: ra-5c2b21826444a845 # AddThis pubid, e.g. ra-5xxxxxxxxxxx
+    toolbox:
+      id: 7n37
 
 ## => Comments
 ##############################
@@ -184,7 +186,6 @@ exclude:
   - /screenshots
   - /test
   - /vendor
-
 
 defaults:
   - scope:
