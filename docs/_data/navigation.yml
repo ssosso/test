@@ -20,8 +20,8 @@ docs-en:
         url:    /docs/en/quick-start
       - title:  Structure
         url:    /docs/en/structure
-      - title:  Update form 1.x to 2.x
-        url:    /docs/en/update-form-1-to-2
+      - title:  Update from 1.x to 2.x
+        url:    /docs/en/update-from-1-to-2
   - title:      Customization
     children:
       - title:  Configuration
@@ -38,10 +38,12 @@ docs-en:
     children:
       - title:  Writing Posts
         url:    /docs/en/writing-posts
-      - title:  Markdown Enhancements
-        url:    /docs/en/markdown-enhancements
       - title:  Additional Styles
         url:    /docs/en/additional-styles
+      - title:  Extensions
+        url:    /docs/en/extensions
+      - title:  Markdown Enhancements
+        url:    /docs/en/markdown-enhancements
   - title:      Extra
     children:
       - title:  Spacing
@@ -60,6 +62,8 @@ docs-en:
         url:    /docs/en/card
       - title:  Hero
         url:    /docs/en/hero
+      - title:  Swiper
+        url:    /docs/en/swiper
   - title:      Languages
     children:
       - title:  中文
@@ -72,7 +76,7 @@ docs-zh:
       - title:  快速开始
         url:    /docs/zh/quick-start
       - title:  从 1.x 升级到 2.x
-        url:    /docs/zh/update-form-1-to-2
+        url:    /docs/zh/update-from-1-to-2
   - title:      定制
     children:
       - title:  配置
@@ -89,10 +93,12 @@ docs-zh:
     children:
       - title:  撰写博客
         url:    /docs/zh/writing-posts
-      - title:  Markdown 增强
-        url:    /docs/zh/markdown-enhancements
       - title:  附加样式
         url:    /docs/zh/additional-styles
+      - title:  扩展
+        url:    /docs/zh/extensions
+      - title:  Markdown 增强
+        url:    /docs/zh/markdown-enhancements
   - title:      其他语言
     children:
       - title:  English
