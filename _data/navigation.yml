@@ -11,3 +11,12 @@ header:
       zh-Hans:  关于
       zh-Hant:  關於
     url:        /about.html
+
+sidebar:
+  nav: custom-nav
+
+custom-nav:
+  - title: categories
+    children:
+      - title: 회고
+        url: https://ssosso.github.io/archive.html?tag=%ED%9A%8C%EA%B3%A0
