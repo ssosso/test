@@ -2,6 +2,7 @@
 layout: article
 title: About
 key: page-about
+comment: false
 ---
 
 - pen name : ssosso
