@@ -201,14 +201,14 @@ defaults:
       show_edit_on_github: true
       pageview: true
   - scope:
-      path: "_posts/review/yearly"
+      path: "_posts/reviews/yearly"
     values:
       layout: article
       tags: 회고
       sidebar:
         nav: yearly-review
   - scope:
-      path: "_posts/review/weekly"
+      path: "_posts/reviews/weekly"
     values:
       layout: article
       tags: 주회고
