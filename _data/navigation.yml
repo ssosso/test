@@ -19,8 +19,8 @@ yearly-review:
   - title: 회고
     children:
       - title: 2018 나의 회고
-        url: /2018/12/30/2018-나의-회고.html
+        url: /reviews/yearly/2018
       - title: 2018 나의 중간회고
-        url:  /2018/08/21/2018-나의-중간회고.html
+        url:  /reviews/yearly/2018-half
       - title: 2017 나의 회고
         url: /reviews/yearly/2017
