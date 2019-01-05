@@ -31,3 +31,5 @@ weekly-review:
     children:
       - title: 주 회고는 어떤 방식으로 할 것인가
         url: /reviews/weekly/promise1
+      - title: 1주 회고
+        url: /reviews/weekly/1
