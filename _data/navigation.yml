@@ -24,3 +24,10 @@ yearly-review:
         url:  /reviews/yearly/2018-half
       - title: 2017 나의 회고
         url: /reviews/yearly/2017
+
+
+weekly-review:
+  - title: 주 회고
+    children:
+      - title: 주 회고는 어떤 방식으로 할 것인가
+        url: /reviews/weekly/promise1
