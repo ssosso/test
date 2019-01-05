@@ -36,8 +36,6 @@ default:
     comment: true
     license: false
     pageview: false
-    sidebar:
-      nav: custom-nav
 
 sources:
   bootcdn:
