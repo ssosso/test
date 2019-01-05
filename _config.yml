@@ -166,7 +166,12 @@ analytics:
     tracking_id : c855be6237d6c8
 
 ## => site running visitor view
+##############################
 whos-amung: true # false (default)
+
+## => site total visitor counter
+##############################
+busuanzi: true # false (default)
 
 ## => Build
 ##############################
