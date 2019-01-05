@@ -14,7 +14,8 @@ header:
       ko:       소개
     url:        /about.html
 
-custom-nav:
+
+yearly-review:
   - title: 회고
     children:
       - title: 2018 나의 회고
