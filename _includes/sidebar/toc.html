@@ -3,6 +3,7 @@
     {%- assign _sidebar_nav = site.data.navigation[page.sidebar.nav] -%}
     {%- if _sidebar_nav -%}
     <ul class="toc toc--navigator">
+      {{ site.data.navigation }}
       {%- for _item in _sidebar_nav -%}
         <li class="toc-h1">{{ _item.title }}</li>
         {%- if _item.children -%}
