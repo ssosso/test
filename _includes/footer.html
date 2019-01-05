@@ -23,6 +23,7 @@
       </div>
     </aside>
     <footer class="site-info">
+      {%- include script/components/whos-amung.js -%}
       {%- assign _paths_rss = site.paths.rss | default: site.data.variables.default.paths.rss -%}
       {%- include snippets/get-nav-url.html path=_paths_rss -%}
       {%- assign _paths_rss = __return -%}
