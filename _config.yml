@@ -143,7 +143,7 @@ comments:
 ## => Pageview
 ##############################
 pageview:
-  provider: leancloud # false (default), "leancloud", "custom"
+  provider: false # false (default), "leancloud", "custom"
 
   ## Leancloud
   leancloud:
@@ -162,6 +162,8 @@ analytics:
     tracking_id : UA-112746043-2 # Google Analytics id for the site
     anonymize_ip: true # Anonymize IP tracking for Analytics
 
+  naver:
+    tracking_id : c855be6237d6c8
 
 ## => Build
 ##############################
