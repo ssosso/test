@@ -223,7 +223,7 @@ defaults:
       sidebar:
         nav: weekly-review
   - scope:
-      path: "_posts/내마음을울린"
+      path: "_posts/hearttouch"
     values:
       layout: article
       tags: 내마음을울린
