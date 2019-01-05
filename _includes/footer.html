@@ -23,11 +23,11 @@
       </div>
     </aside>
     <footer class="site-info">
-      {%- if site.whos-amung == true -%}
-        {%- include whos-amung.html -%}
-      {%- endif -%}
       {%- if site.busuanzi == true -%}
         {%- include busuanzi.html -%}
+      {%- endif -%}
+      {%- if site.whos-amung == true -%}
+        {%- include whos-amung.html -%}
       {%- endif -%}
       {%- assign _paths_rss = site.paths.rss | default: site.data.variables.default.paths.rss -%}
       {%- include snippets/get-nav-url.html path=_paths_rss -%}
