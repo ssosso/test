@@ -15,7 +15,11 @@ header:
     url:        /about.html
 
 custom-nav:
-  - title: categories
+  - title: 회고
     children:
-      - title: 회고
-        url: https://ssosso.github.io/archive.html?tag=%ED%9A%8C%EA%B3%A0
+      - title: 2018 나의 회고
+        url: /2018/12/30/2018-나의-회고.html
+      - title: 2018 나의 중간회고
+        url:  /2018/08/21/2018-나의-중간회고.html
+      - title: 2017 나의 회고
+        url: /2017/12/31/2017-나의-회고.html
