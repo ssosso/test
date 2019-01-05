@@ -214,6 +214,13 @@ defaults:
       tags: 주회고
       sidebar:
         nav: weekly-review
+  - scope:
+      path: "_posts/내마음을울린"
+    values:
+      layout: article
+      tags: 내마음을울린
+      aside:
+        toc: false
 
 
 ## => Plugins
