@@ -15,7 +15,7 @@ header:
     url:        /about.html
 
 
-yearly-review:
+review:
   - title: 회고
     children:
       - title: 2018 나의 회고
@@ -24,9 +24,6 @@ yearly-review:
         url:  /reviews/yearly/2018-half
       - title: 2017 나의 회고
         url: /reviews/yearly/2017
-
-
-weekly-review:
   - title: 주 회고
     children:
       - title: 주 회고는 어떤 방식으로 할 것인가
@@ -43,3 +40,5 @@ weekly-review:
         url: /reviews/weekly/5
       - title: 6주 회고
         url: /reviews/weekly/6
+      - title: 7주 회고
+        url: /reviews/weekly/7

@@ -214,14 +214,14 @@ defaults:
       layout: article
       tags: 회고
       sidebar:
-        nav: yearly-review
+        nav: review
   - scope:
       path: "_posts/reviews/weekly"
     values:
       layout: article
       tags: 주회고
       sidebar:
-        nav: weekly-review
+        nav: review
   - scope:
       path: "_posts/hearttouch"
     values:
