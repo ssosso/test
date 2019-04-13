@@ -24,6 +24,7 @@
 
   .page__sidebar {
     z-index: map-get($z-indexes, sidebar);
+    position: fixed;
     display: block;
     width: 80%;
     max-width: map-get($layout, sidebar-width);
