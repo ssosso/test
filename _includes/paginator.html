@@ -7,9 +7,9 @@
 
     {%- assign _post_count = site.posts | size -%}
     {%- assign _page_count = paginator.total_pages -%}
-    <p style="text-align:center; font-size:14px;">{{ _locale_statistics | replace: '[POST_COUNT]', _post_count | replace: '[PAGE_COUNT]', _page_count }}</p>
+    <p style="font-size:14px;">{{ _locale_statistics | replace: '[POST_COUNT]', _post_count | replace: '[PAGE_COUNT]', _page_count }}</p>
     <div class="pagination__menu">
-      <ul class="menu menu--nowrap" style="margin-left:auto; margin-right:auto; width:420px;">
+      <ul class="menu menu--nowrap">
         {%- assign _max_show = 5 -%}
         {%- assign _max_show_modulo_two = _max_show | modulo: 2 -%}
         {%- assign _length = paginator.total_pages -%}
@@ -96,4 +96,5 @@
       </ul>
     </div>
   </div>
+  <br/><br/>
 {%- endif -%}
