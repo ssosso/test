@@ -26,6 +26,12 @@
     {%- assign _locale_copyright_dates = __return -%}
     <div class="site-info mt-2">
       <div>
+        {%- if site.busuanzi == true -%}
+          {%- include busuanzi.html -%}
+        {%- endif -%}
+        {%- if site.whos-amung == true -%}
+          {%- include whos-amung.html -%}
+        {%- endif -%}
         {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
         {%- assign _locale_copyright_dates = __return -%}
         © {{ site.title }} {{ _locale_copyright_dates }},
