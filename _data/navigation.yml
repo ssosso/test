@@ -32,3 +32,40 @@ header:
       ko      : &KO       소개
       ko-KR   : *KO
     url: /about.html
+
+
+review:
+  - title: 회고
+    children:
+      - title: 2018 나의 회고
+        url: /reviews/yearly/2018
+      - title: 2018 나의 중간회고
+        url:  /reviews/yearly/2018-half
+      - title: 2017 나의 회고
+        url: /reviews/yearly/2017
+  - title: 주 회고
+    children:
+      - title: 주 회고는 어떤 방식으로 할 것인가
+        url: /reviews/weekly/promise1
+      - title: 1주 회고
+        url: /reviews/weekly/1
+      - title: 2주 회고
+        url: /reviews/weekly/2
+      - title: 3주 회고
+        url: /reviews/weekly/3
+      - title: 4주 회고
+        url: /reviews/weekly/4
+      - title: 5주 회고
+        url: /reviews/weekly/5
+      - title: 6주 회고
+        url: /reviews/weekly/6
+      - title: 7주 회고
+        url: /reviews/weekly/7
+      - title: 8주 회고
+        url: /reviews/weekly/8
+      - title: 9주 회고
+        url: /reviews/weekly/9
+      - title: 10-11주 회고
+        url: /reviews/weekly/10-11
+      - title: 12-13주 회고
+        url: /reviews/weekly/12-13
