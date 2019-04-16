@@ -3,6 +3,7 @@ title: Nextstep reviewer 활동 회고 (2019 상반기)
 key: /reviews/action/nextstep-reviewer201904
 modify_date: 2019-04-14
 permalink: /reviews/action/nextstep-reviewer201904
+tags: 활동회고
 ---
 
 3-4월 동안 진행한 Nextstep 리뷰어 활동을 마무리하며 혼자만의 아주 사적인 회고를 하고자 한다.
