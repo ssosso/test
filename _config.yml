@@ -242,13 +242,6 @@ defaults:
       aside:
         toc: false
 
-articles:
-  show_excerpt: true
-  excerpt_type: text
-  show_readmore: false
-  show_info: true
-  type: item
-
 
 ## => Plugins
 ##############################
