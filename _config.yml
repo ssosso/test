@@ -234,6 +234,9 @@ defaults:
       tags: 주회고
       sidebar:
         nav: review
+      mode: immersive
+      header:
+        theme: dark
       article_header:
         type: overlay
         theme: dark
