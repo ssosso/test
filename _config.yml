@@ -234,6 +234,13 @@ defaults:
       tags: 주회고
       sidebar:
         nav: review
+      article_header:
+        type: overlay
+        theme: dark
+        # background_color: '#203028'
+        background_image:
+          # gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+          src: /assets/cover/weekly_review_cover1.jpeg
   - scope:
       path: "_posts/hearttouch"
     values:
