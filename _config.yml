@@ -259,6 +259,14 @@ defaults:
       tags: 내마음을울린
       aside:
         toc: false
+      mode: normal
+      header:
+        theme: light
+      article_header:
+        type: cover
+        theme: light
+        background_color: '#123'
+        background_image: false
 
 
 ## => Plugins
