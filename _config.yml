@@ -261,7 +261,7 @@ defaults:
         toc: false
       mode: normal
       header:
-        theme: light
+        theme: dark
       article_header:
         type: cover
         theme: light
