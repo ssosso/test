@@ -37,6 +37,8 @@ header:
 review:
   - title: 회고
     children:
+      - title: 2019 나의 ⅓중간회고
+        url: /reviews/yearly/2019-one-third
       - title: 2018 나의 회고
         url: /reviews/yearly/2018
       - title: 2018 나의 중간회고
