@@ -36,7 +36,7 @@ header:
 
 review:
   - title: 회고
-    children: 
+    children:
       - title: 2018 나의 회고
         url: /reviews/yearly/2018
       - title: 2018 나의 중간회고
@@ -45,6 +45,8 @@ review:
         url: /reviews/yearly/2017
   - title: 주 회고
     children:
+      - title: 30주 회고
+        url: /reviews/weekly/30
       - title: 19주 회고
         url: /reviews/weekly/19
       - title: 17-18주 회고
