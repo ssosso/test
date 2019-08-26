@@ -45,6 +45,8 @@ review:
         url: /reviews/yearly/2017
   - title: 주 회고
     children:
+      - title: 34주 회고
+        url: /reviews/weekly/24
       - title: 33주 회고
         url: /reviews/weekly/23
       - title: 32주 회고
