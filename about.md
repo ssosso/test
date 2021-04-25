@@ -10,7 +10,7 @@ sharing: false
 - Email : ssossohow@gmail.com
 - Github : [https://github.com/ssosso](https://github.com/ssosso)
 
-4년차 개발자로 백앤드 개발을 하고 있습니다.<br/>
+6년차 개발자로 백앤드 개발을 하고 있습니다.<br/>
 여러가지 경험하는 것을 좋아합니다.
 
 ### skill set
